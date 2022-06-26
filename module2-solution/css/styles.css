@@ -16,7 +16,8 @@ h2 {
   position: absolute;
   width: 140px;
   height: 30px;
-  border: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
   padding: center;
   text-align: center;
   right: 0px;
