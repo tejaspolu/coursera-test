@@ -27,7 +27,7 @@ h2 {
 .section {
   font-family: Helvetica;
   clear: margin;
-  border: 2px solid black;
+  border: 1px solid black;
   background-color: #818181;
   color:  black;
   position: relative;
